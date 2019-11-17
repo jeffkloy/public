@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/211a67c8097042ac9f163e6ec192bdaf)](https://www.codacy.com/manual/jeffkloy/public?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jeffkloy/public&amp;utm_campaign=Badge_Grade)
 # User manual for Jeff Kloythanomsup
 ## Table of contents
 - [My top skills](#my-top-skills)
