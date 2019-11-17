@@ -10,10 +10,11 @@
 
 ### My top skills
 1. Amazon Web Services
-1. Linux systems administration
-1. Terraform
+1. Linux and LAMP administration tasks
+1. Terraform (mainly ~<0.11)
 1. Kubernetes
-1. Python and Bash scripting
+1. Python for systems administration
+1. Bash scripting
 1. CI/CD pipelines for [CircleCI](https://circleci.com) and [Travis CI](https://travis-ci.org)
 
 See my [resume](https://jeffkloy.me/wp-content/uploads/2019/10/resume-2019.3.1.pdf).
