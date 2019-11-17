@@ -3,7 +3,6 @@
 
 # NPM files
 node_modules/
-package.json
 package-lock.json
 
 # Reamark files
